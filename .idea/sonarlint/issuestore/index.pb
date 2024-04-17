@@ -41,3 +41,9 @@ l
 <src/main/java/org/motadata/practice/http/HtmlFileUpload.java,8/4/845a434094b4f83fc37e3de950b138e004d8ef6b
 h
 8src/main/java/org/motadata/practice/http/CookieDemo.java,9/9/999c8a7c869cebc186a74e8cc693497fe8eea09c
+y
+Isrc/main/java/org/motadata/practice/virtual_thread/VirtualThreadDemo.java,5/8/58d24213a209a5817d0e05f4c7e8a67945812987
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
