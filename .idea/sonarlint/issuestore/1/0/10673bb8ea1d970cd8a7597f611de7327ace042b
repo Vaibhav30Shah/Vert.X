@@ -1,0 +1,7 @@
+
+ç
+java:S1598"ÄThis file "Publisher.java" should be located in "org/motadata/practice/event_bus" directory, not in "/home/vaibhav/IdeaProjects/Vert.X_Practice/src/main/java/org/motadata/practice/core/event_bus".(™ä“èıÿÿÿÿ8·‡•ï1
+{
+java:S1128"3Remove this unused import 'io.vertx.core.Launcher'.(¡„¦ğøÿÿÿÿ8­„‡˜ì1J$349d5fde-164d-40fc-94f1-5b4a46a5dc4f
+|
+java:S1128":Remove this unused import 'io.vertx.core.json.JsonObject'.(ûöï8ÍïÉ—ì1J$ba29b1bc-3aff-4960-8f92-04f902a742b0

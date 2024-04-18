@@ -1,0 +1,10 @@
+
+q
+java:S2387"5"vertx" is the name of a field in "AbstractVerticle".(Ú˜Ö¾J$7139a2b3-9114-4d20-b758-459502dea968
+­
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(´úÿÿÿÿJ$eade51d8-47fe-449e-aee7-d2db64f33cdb
+o
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²ÅJ$166741c5-974e-485a-8e67-a348f351ffa7
+r
+java:S1128
+"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉJ$b76bb0c3-3f2d-4a78-be28-0be0578a2b25
