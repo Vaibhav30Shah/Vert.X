@@ -1,11 +1,0 @@
-
-˜
-java:S1450"URemove the "server" field and declare it as a local variable in the relevant methods.(¦ºËÁ8€éÎìë1J$1454266d-9774-4cab-8479-2074d3296369
-t
-java:S1602",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8„éÎìë1J$0cee5c8e-114f-4275-8448-fa27b0e5f103
-}
-java:S1854;":Remove this useless assignment to local variable "future".(¦½°æ8ˆéÎìë1J$2da80347-ddb7-4b69-8245-82a09f4716bc
-›
-java:S1602<"SRemove useless curly braces around statement and then remove useless return keyword(ÒÌâ–øÿÿÿÿ8ŠéÎìë1J$ff2f90b8-7cc4-48a2-941b-006cd8c2d94e
-›
-java:S1602?"SRemove useless curly braces around statement and then remove useless return keyword(ÒÌâ–øÿÿÿÿ8ŠéÎìë1J$c258ee5b-4e82-4a6c-8e7a-fb96f62a99a0

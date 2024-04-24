@@ -4,6 +4,7 @@ import io.vertx.core.Vertx;
 import io.vertx.core.http.HttpServer;
 import io.vertx.ext.web.Route;
 import io.vertx.ext.web.Router;
+import io.vertx.ext.web.handler.ErrorHandler;
 
 public class MultipleRoutes
 {
@@ -26,6 +27,10 @@ public class MultipleRoutes
             routingContext.response().write("Hello World");
             System.out.println("Hello World");
             routingContext.next();
+        });
+
+        route.handler(ctx->{
+            ErrorHandler.create(vertx);
         });
 
         route2.handler(routingContext ->
