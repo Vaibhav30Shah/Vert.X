@@ -1,4 +1,4 @@
-package org.motadata.practice.event_bus;
+package org.motadata.practice.core.event_bus;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Launcher;
