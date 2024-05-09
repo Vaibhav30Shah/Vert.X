@@ -1,4 +1,4 @@
-package org.motadata.practice.tcp;
+package org.motadata.practice.core.tcp;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Vertx;

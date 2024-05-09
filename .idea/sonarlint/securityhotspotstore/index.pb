@@ -2677,3 +2677,9 @@ Q.idea/sonarlint/securityhotspotstore/e/c/ec43f1faa5c31b40ec26fe82891cea4ee07a01
 Q.idea/sonarlint/securityhotspotstore/d/4/d43dd764285d03f331e2b1722f0333492f8c34f6,a/0/a0bb9a796536de7d685bf6f11c1d0a11efb616fa
 Å
 Q.idea/sonarlint/securityhotspotstore/d/3/d39a8da369c89d89f698af6a5fd9ba500a801cd1,1/1/111e9b00629c43e162268c403deb14ea2605b9c1
+]
+-src/main/java/org/motadata/practice/Demo.java,e/6/e6d769156adf66e0918e436b2f0283f7f7645386
+É
+Ssrc/main/java/org/motadata/practice/core/consumer_localconsumer/DSInsideCAndLC.java,1/7/171dd79766e0e4fa67c707874f71ecb13400073a
+Ü
+Vsrc/main/java/org/motadata/practice/core/blocking_verticle/CheckBlockingOperation.java,e/4/e40849ee28258231716efb0710f92c0c7f901e21
