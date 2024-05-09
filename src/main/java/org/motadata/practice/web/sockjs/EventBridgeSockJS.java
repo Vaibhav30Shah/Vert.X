@@ -11,9 +11,9 @@ public class EventBridgeSockJS
 {
     public static void main(String[] args)
     {
-        Vertx vertx = Vertx.vertx();
+        var vertx = Vertx.vertx();
 
-        Router router = Router.router(vertx);
+        var router = Router.router(vertx);
 
         SockJSBridgeOptions options = new SockJSBridgeOptions()
                 .addInboundPermitted(new PermittedOptions().setAddressRegex(".*"))
@@ -24,7 +24,5 @@ public class EventBridgeSockJS
         router.route("/app/*").subRouter(sockJSHandler.bridge(options));
 
         vertx.createHttpServer().requestHandler(router).listen(8080, "localhost");
-
-
     }
 }
